@@ -14,4 +14,4 @@ The linked list class has these methods that adds a new tourist to the beginning
  - public String findNode(String touristName) 
  
 
-Testing class, will add 3 tourists with the addFirst method. Next, the findNode class will find each tourist by name and then return the destination. I will also use findNode to try and find a tourist that does not exist in the list. This program will run without errors or any unhandled exceptions.
+Testing class will add 3 tourists with the addFirst method. Next, the findNode class will find each tourist by name and then return the destination. I will also use findNode to try and find a tourist that does not exist in the list. This program will run without errors or any unhandled exceptions.
