@@ -5,20 +5,13 @@ The linked list class will have a nested node class that holds the following inf
 *Node code from the modules modified to hold the above instance variables for each node.  
 
 
-The linked list class has these methods:
+The linked list class has these methods that adds a new tourist to the beginning of the list, returns the number of tourists in the list, finds the tourist's name in the list and returns the destination:
 
-//adds a new tourist to the beginning of the list
+ - public void addFirst(String touristName, int passportNumber, String destinationCity) 
 
-public void addFirst(String touristName, int passportNumber, String destinationCity) 
+ - public int size() 
 
-//returns the number of tourists in the list
-
-public int size() 
-
-//finds the tourist's name in the list and returns the destination
-
-public String findNode(String touristName) 
-
-
+ - public String findNode(String touristName) 
+ 
 
 Testing class, will add 3 tourists with the addFirst method. Next, the findNode class will find each tourist by name and then return the destination. I will also use findNode to try and find a tourist that does not exist in the list. This program will run without errors or any unhandled exceptions.
