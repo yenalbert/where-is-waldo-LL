@@ -1,4 +1,4 @@
-# where-is-waldo-LL
+# where-is-waldo-in-linked-list
 Linked list approach (with a nested node class) to hold the information of tourists; The tester (or driver) class will return Waldo's destination
 
 The linked list class will have a nested node class that holds the following information about tourists. There will be 3 parameters: name, destination, and passport number.
