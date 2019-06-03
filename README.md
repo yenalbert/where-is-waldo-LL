@@ -9,16 +9,23 @@ Destination: Prague;
 
 *Node code from the modules modified to hold the above instance variables for each node.  
 
+
+
 The linked list class has these methods:
 
 public void addFirst(String touristName, int passportNumber, String destinationCity) 
+
 //adds a new tourist to the beginning of the list
 
 public int size() 
+
 //returns the number of tourists in the list
 
 public String findNode(String touristName) 
+
 //finds the tourist's name in the list and returns the destination
+
+
 
 Testing class, will add 3 tourists with the addFirst method. Next, the findNode class will find each tourist by name and then return the destination.
 
