@@ -8,12 +8,15 @@ The linked list class will have a nested node class that holds the following inf
 The linked list class has these methods:
 
 //adds a new tourist to the beginning of the list
+
 public void addFirst(String touristName, int passportNumber, String destinationCity) 
 
 //returns the number of tourists in the list
+
 public int size() 
 
 //finds the tourist's name in the list and returns the destination
+
 public String findNode(String touristName) 
 
 
