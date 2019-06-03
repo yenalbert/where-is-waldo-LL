@@ -3,9 +3,10 @@ Linked list approach (with a nested node class) to hold the information of touri
 
 The linked list class will have a nested node class that holds the following information about tourists. For example:
 
-Name:  Waldo
-Passport Number: 12345
-Destination: Prague
+Name:  Waldo;
+Passport Number: 12345;
+Destination: Prague;
+
 *Node code from the modules modified to hold the above instance variables for each node.  
 
 The linked list class has these methods:
